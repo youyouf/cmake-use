@@ -2,7 +2,7 @@
 
 ## 1.编写第一个CMakeLists.txt
 
-参考代码在：
+参考代码在：https://github.com/youyouf/cmake-use/blob/master/01
 
 项目的目录结构
 
@@ -77,7 +77,7 @@ add_executable(run main.cpp)
 
 ​	`set(CMAKE_CXX_EXTENSIONS OFF）`：是取消编译器的特有扩展，比如linux下的gcc编译器与windows下的msvc编译器有一些不同的特性，为了跨平台的需要，就将这个变量设置为OFF。
 
-## 3.Cmake常用内置变量与消息打印
+## 3.Cmake常用内置变量
 常见的Cmake内置变量：
 1. CMAKE_SOURCE_DIR: CMakeLists.txt所在的顶级源代码目录的路径。
 2. CMAKE_BINARY_DIR: 构建目录的路径，即执行cmake命令时生成的Makefile或其他构建系统文件所在的目录。
