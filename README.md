@@ -3,4 +3,4 @@ CMake是一个跨平台的构建工具，用于自动化软件构建过程，其
 
 ## cmake使用
 - [初识cmake](https://github.com/youyouf/cmake-use/blob/master/01/README.md)
-- [多源文件和头文件](https://github.com/youyouf/cmake-use/blob/master/02/README.md)
+- [多源文件和头文件编译](https://github.com/youyouf/cmake-use/blob/master/02/README.md)
