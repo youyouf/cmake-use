@@ -9,6 +9,7 @@ CMake是一个跨平台的构建工具，用于自动化软件构建过程，其
 - [使用与查找第三方库](https://github.com/youyouf/cmake-use/blob/master/05/README.md)
 
 
+git链接：https://github.com/youyouf/cmake-use/blob/master/0.git%E7%AC%94%E8%AE%B0/git%E7%AC%94%E8%AE%B0.md
 
 参考链接：
 - https://www.jb51.net/article/277327.htm
